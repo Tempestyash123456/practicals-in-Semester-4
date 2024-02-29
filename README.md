@@ -1,7 +1,7 @@
 ## Design-and-Analysis-of-Algorithms Practicals
 
-|  TITLE   |  Source-code   |  README.md file  |    Output   |
-|----------|----------------|------------------|-------------|
+|  TITLE   |  Source-code   |  README.md file  |
+|----------|----------------|------------------|
 |[Experiment-1](https://github.com/Tempestyash123456/practicals-in-Semester-4/tree/Design-and-Analysis-of-Algorithms/Exp1)| [Source-code](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Design-and-Analysis-of-Algorithms/Exp1/binarySearch_Exp1.c) |[README.md file](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Design-and-Analysis-of-Algorithms/Exp1/README.md) |
 | [Experiment-2](https://github.com/Tempestyash123456/practicals-in-Semester-4/tree/Design-and-Analysis-of-Algorithms/Exp2) |[Source-code](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Design-and-Analysis-of-Algorithms/Exp2/quickSort_Exp2.c) | [README.md file](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Design-and-Analysis-of-Algorithms/Exp2/README.md) |
 | [Experiment-3](https://github.com/Tempestyash123456/practicals-in-Semester-4/tree/Design-and-Analysis-of-Algorithms/Exp3) | [Source-code](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Design-and-Analysis-of-Algorithms/Exp3/strassenMatrix_Exp3.c) | [README.md file](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Design-and-Analysis-of-Algorithms/Exp3/README.md)|
