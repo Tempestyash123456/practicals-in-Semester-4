@@ -6,7 +6,7 @@
 
 **Output:** In this experiment, we have installed the git-bash and created a repository
 
-For more information, you can view the [pdf](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp1/22BDO10019_git_exp_one.pdf) from here.
+For more information and screenshots, you can view the [pdf](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp1/22BDO10019_git_exp_one.pdf) from here.
 
 
 
