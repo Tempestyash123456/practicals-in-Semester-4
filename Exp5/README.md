@@ -6,7 +6,7 @@
 
 **Output:** In this experiment, we have merged a file in a branch to the master or main branch on both local and remote repositories.
 
-For more information, you can view the [pdf](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp5/22BDO10019_git_exp_five.pdf) from here.
+For more information and screenshots, you can view the [pdf](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp5/22BDO10019_git_exp_five.pdf) from here.
 
 
 
