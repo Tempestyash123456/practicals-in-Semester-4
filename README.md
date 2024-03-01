@@ -1,6 +1,6 @@
 # Git-and-GitHub Practicals
 
-|  TITLE  |   PDF-file    |    README.md file   |  Procedural-guide  |
+|  TITLE  |   Screenshots-PDF    |    README.md file   |  Procedural-guide  |
 |---------|---------------|---------------------|--------------------|
 | [Experiment-1](https://github.com/Tempestyash123456/practicals-in-Semester-4/tree/Git-and-Github/Exp1)        |  [PDF-file](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp1/22BDO10019_git_exp_one.pdf)             |   [README.md file](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp1/README.md)                  | [Guide-to-Exp1](https://lms.cuchd.in/mod/page/view.php?id=1572472) |
 | [Experiment-2](https://github.com/Tempestyash123456/practicals-in-Semester-4/tree/Git-and-Github/Exp2) | [PDF-file](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp2/22BDO10019_git_exp_two.pdf) | [README.md file](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp2/README.md) | [Guide-to-Exp2](https://lms.cuchd.in/mod/page/view.php?id=1572473) |
