@@ -6,7 +6,7 @@
 
 **Output:** In this experiment, we have created and merged pull request in order to merge the changes done in a feature-branch with the main branch on both Git-bash and Github.
 
-For more information, you can view the [pdf](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp3/22BDO10019_git_exp_three.pdf) from here.
+For more information and screenshots, you can view the [pdf](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp3/22BDO10019_git_exp_three.pdf) from here.
 
 
 
