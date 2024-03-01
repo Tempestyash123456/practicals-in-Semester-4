@@ -2,6 +2,10 @@
 
 **Aim:** To perform Binary search
 
+**Flowchart:**
+
+![Image](https://qph.cf2.quoracdn.net/main-qimg-742d049387316193be2d097fe7a499de)
+
 **Program-code:** [Source-code](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Design-and-Analysis-of-Algorithms/Exp1/binarySearch_Exp1.c)
 
 **Output:** 
