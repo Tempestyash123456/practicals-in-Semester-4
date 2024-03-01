@@ -6,7 +6,7 @@
 
 **Output:** In this experiment, we have edited a file in the local environment & shown the changes on the remote environment and vice versa.
 
-For more information, you can view the [pdf](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp4/22BDO10019_git_exp_four.pdf) from here.
+For more information and screenshots, you can view the [pdf](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Git-and-Github/Exp4/22BDO10019_git_exp_four.pdf) from here.
 
 
 
