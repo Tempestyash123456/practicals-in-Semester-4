@@ -2,6 +2,10 @@
 
 **Aim:** To perform quick sort
 
+**Flowchart:**
+
+![Image](https://www.w3resource.com/w3r_images/c-search-and-sorting-exercise-7.png)
+
 **Program-code:** [Source-code](https://github.com/Tempestyash123456/practicals-in-Semester-4/blob/Design-and-Analysis-of-Algorithms/Exp2/quickSort_Exp2.c)
 
 **Output:**
